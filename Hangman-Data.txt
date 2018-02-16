@@ -1,93 +1,94 @@
-ciastko;Kiedyœ mêdrzec zada³ pytanie-jak skonsumowaæ i wci¹¿ posiadaæ ten skarb?! 
+ciastko;KiedyÅ› mÄ™drzec zadaÅ‚ pytanie-jak skonsumowaÄ‡ i wciÄ…Å¼ posiadaÄ‡ ten skarb?! 
 smoki;Jedyne prawdziwe nadistoty
-loch;Miejsce zabaw Shnapiego z powieœci Rowling
-ksiê¿niczki;Z lochami, smokami, rycerzami, skarbami(przez hetero uto¿samiane z tym ostatnim)
-dungeon boy;Zparafrazowana fraza z jednego z kultowych filmów(ENG)
+loch;Miejsce zabaw Shnapiego z powieÅ›ci Rowling
+ksiÄ™Å¼niczki;Z lochami, smokami, rycerzami, skarbami(przez hetero utoÅ¼samiane z tym ostatnim)
+dungeon boy;Zparafrazowana fraza z jednego z kultowych filmÃ³w(ENG)
 master;Kojarz ze scrumem
-konstantynopolitañczykowianeczka;To jest jedno, polskie s³owo
-m¹¿;Ten walcz¹cy bohater, symbol mêskoœci("bez The")
-piwnica;Poprawnie politycznie bywa suteren¹
-testownik;Hañba AIRu
+konstantynopolitaÅ„czykowianeczka;To jest jedno, polskie sÅ‚owo
+mÄ…Å¼;Ten walczÄ…cy bohater, symbol mÄ™skoÅ›ci("bez The")
+piwnica;Poprawnie politycznie bywa suterenÄ…
+testownik;HaÅ„ba AIRu
 wait for it;Legend ? dary
-sen;Tylko dla g³upców
-kares;Starodawne polskie s³owo
-pleœñ;Jest wszêdzie...
+sen;Tylko dla gÅ‚upcÃ³w
+kares;Starodawne polskie sÅ‚owo
+pleÅ›Å„;Jest wszÄ™dzie...
 rower;Ukradli mi pod PWRem
 Vieetnaaam;Gooooooood Morning,
-offtop;top 1 naszego ¿ycia
-doktorek;ka¿dy szanowany rozmówca wedle Bugs'a
+offtop;top 1 naszego Å¼ycia
+doktorek;kaÅ¼dy szanowany rozmÃ³wca wedle Bugs'a
 Zed;..is dead baby...
+devops;kawkÄ™ sobie pije
 ;
-balia;du¿y, drewniany pojemnik na wodê, s³u¿¹cy do prania lub k¹pieli; “balia" Ziomka nie zosta³a zrobiona przez stolarza czy bednarza, ale;jak wynika z opisu;przez sam¹ naturê.
-ba³wany pogañskie;tak nazywano pos¹gi pogañskich bóstw, pod którymi sk³adano ofiary i odprawiano obrzêdowe mod³y; st¹d o pogañskich wierzeniach mówiono te¿ “ba³wochwalstwo".
-bo¿a krówka;biedronka.
+balia;duÅ¼y, drewniany pojemnik na wodÄ™, sÅ‚uÅ¼Ä…cy do prania lub kÄ…pieli; â€œbalia" Ziomka nie zostaÅ‚a zrobiona przez stolarza czy bednarza, ale;jak wynika z opisu;przez samÄ… naturÄ™.
+baÅ‚wany pogaÅ„skie;tak nazywano posÄ…gi pogaÅ„skich bÃ³stw, pod ktÃ³rymi skÅ‚adano ofiary i odprawiano obrzÄ™dowe modÅ‚y; stÄ…d o pogaÅ„skich wierzeniach mÃ³wiono teÅ¼ â€œbaÅ‚wochwalstwo".
+boÅ¼a krÃ³wka;biedronka.
 chrobry;waleczny, dzielny, dziarski.
-ci¿emki, ci¿my;rodzaj pó³butów z miêkkiej skóry, z d³ugimi, czêsto zadartymi w górê noskami.
-czêstokó³;rodzaj p³otu z pali wbitych w ziemiê jeden przy drugim.
-Dopust;zwykle mówi siê “dopust Bo¿y", co znaczy, ¿e Pan Bóg z jakiegoœ powodu dopuœci³, by spotka³o nas coœ z³ego; mo¿e to byæ kara za grzech czy przewinienie, st¹d mówi siê te¿ “skaranie Boskie".
-Dynastia;ród, panuj¹cy dziedzicznie, tzn. syn obejmuje w³adzê po ojcu; w Polsce by³y dwie wielkie dynastie: Piastów i Jagiellonów; gdy tych ostatnich zabrak³o, polskich królów wybiera³ sejm i taki wybór zwano elekcjê, o czym bêdzie mowa w III tomie Ziomkowej ksiêgi.
-Dzie¿a;du¿e, drewniane naczynie do wyrabiania ciasta.
-Exodus;z ³aciny: opuszczenie kraju rodzinnego.
-Fortel;wybieg, podstêp.
-Galasowa naroœl;wypuk³oœæ na liœciu dêbu, powsta³a na skutek naciêcia liœcia przez owada zwanego galasówk¹ dêbiank¹ i z³o¿enia w naciêciu larw; podobno p³ynem z tej naroœli mo¿na pisaæ.
-Gloria;z ³aciny: chwa³a, s³awa.
-Go³ow¹s;m³odzik, ch³opiec, któremu nie zd¹¿y³y jeszcze wyrosn¹æ w¹sy.
-Gontyna;albo “kontyna", a prawid³owo “k¹cina", to s³owiañska œwi¹tynia, gdzie oddawano czeœæ i sk³adano ofiary pogañskim bóstwom.
-Goplana;rusa³ka, boginka z jeziora Gop³a.
-Grubianin;osoba Ÿle wychowana, nietaktowna, gruboskórna.
-Horda;dziœ “zgraja, dzika t³uszcza", kiedyœ s³owem “horda" (“orda") okreœlano wojska tatarskie.
-Ilion;inaczej Troja, legendarne pañstwo, którego zdobycie przez Greków opisa³ Homer w “Iliadzie"; Grecy bezskutecznie oblegali Trojê przez dziesiêæ lat, zwyciêstwo zapewni³ im dopiero podstêp króla Itaki Odysa: nakaza³ on zbudowaæ pod murami Troi wielkiego drewnianego konia, w którym ukry³a siê czêœæ greckich wojowników, a pozostali udali, ¿e zmêczeni oblê¿eniem odp³ywaj¹; noc¹ obroñcy Troi, widz¹c porzuconego konia, wci¹gnêli go za mury, zamknêli bramy i poszli spaæ, a wtedy Grecy opuœcili swoj¹ kryjówkê, wybili niespodziewaj¹cych siê niczego Trojan i zrównali miasto z ziemi¹.
+ciÅ¼emki, ciÅ¼my;rodzaj pÃ³Å‚butÃ³w z miÄ™kkiej skÃ³ry, z dÅ‚ugimi, czÄ™sto zadartymi w gÃ³rÄ™ noskami.
+czÄ™stokÃ³Å‚;rodzaj pÅ‚otu z pali wbitych w ziemiÄ™ jeden przy drugim.
+Dopust;zwykle mÃ³wi siÄ™ â€œdopust BoÅ¼y", co znaczy, Å¼e Pan BÃ³g z jakiegoÅ› powodu dopuÅ›ciÅ‚, by spotkaÅ‚o nas coÅ› zÅ‚ego; moÅ¼e to byÄ‡ kara za grzech czy przewinienie, stÄ…d mÃ³wi siÄ™ teÅ¼ â€œskaranie Boskie".
+Dynastia;rÃ³d, panujÄ…cy dziedzicznie, tzn. syn obejmuje wÅ‚adzÄ™ po ojcu; w Polsce byÅ‚y dwie wielkie dynastie: PiastÃ³w i JagiellonÃ³w; gdy tych ostatnich zabrakÅ‚o, polskich krÃ³lÃ³w wybieraÅ‚ sejm i taki wybÃ³r zwano elekcjÄ™, o czym bÄ™dzie mowa w III tomie Ziomkowej ksiÄ™gi.
+DzieÅ¼a;duÅ¼e, drewniane naczynie do wyrabiania ciasta.
+Exodus;z Å‚aciny: opuszczenie kraju rodzinnego.
+Fortel;wybieg, podstÄ™p.
+Galasowa naroÅ›l;wypukÅ‚oÅ›Ä‡ na liÅ›ciu dÄ™bu, powstaÅ‚a na skutek naciÄ™cia liÅ›cia przez owada zwanego galasÃ³wkÄ… dÄ™biankÄ… i zÅ‚oÅ¼enia w naciÄ™ciu larw; podobno pÅ‚ynem z tej naroÅ›li moÅ¼na pisaÄ‡.
+Gloria;z Å‚aciny: chwaÅ‚a, sÅ‚awa.
+GoÅ‚owÄ…s;mÅ‚odzik, chÅ‚opiec, ktÃ³remu nie zdÄ…Å¼yÅ‚y jeszcze wyrosnÄ…Ä‡ wÄ…sy.
+Gontyna;albo â€œkontyna", a prawidÅ‚owo â€œkÄ…cina", to sÅ‚owiaÅ„ska Å›wiÄ…tynia, gdzie oddawano czeÅ›Ä‡ i skÅ‚adano ofiary pogaÅ„skim bÃ³stwom.
+Goplana;rusaÅ‚ka, boginka z jeziora GopÅ‚a.
+Grubianin;osoba Åºle wychowana, nietaktowna, gruboskÃ³rna.
+Horda;dziÅ› â€œzgraja, dzika tÅ‚uszcza", kiedyÅ› sÅ‚owem â€œhorda" (â€œorda") okreÅ›lano wojska tatarskie.
+Ilion;inaczej Troja, legendarne paÅ„stwo, ktÃ³rego zdobycie przez GrekÃ³w opisaÅ‚ Homer w â€œIliadzie"; Grecy bezskutecznie oblegali TrojÄ™ przez dziesiÄ™Ä‡ lat, zwyciÄ™stwo zapewniÅ‚ im dopiero podstÄ™p krÃ³la Itaki Odysa: nakazaÅ‚ on zbudowaÄ‡ pod murami Troi wielkiego drewnianego konia, w ktÃ³rym ukryÅ‚a siÄ™ czÄ™Å›Ä‡ greckich wojownikÃ³w, a pozostali udali, Å¼e zmÄ™czeni oblÄ™Å¼eniem odpÅ‚ywajÄ…; nocÄ… obroÅ„cy Troi, widzÄ…c porzuconego konia, wciÄ…gnÄ™li go za mury, zamknÄ™li bramy i poszli spaÄ‡, a wtedy Grecy opuÅ›cili swojÄ… kryjÃ³wkÄ™, wybili niespodziewajÄ…cych siÄ™ niczego Trojan i zrÃ³wnali miasto z ziemiÄ….
 Inkaust;atrament.
-Kmieæ;ch³op, gospodarz.
-Koleina;g³êboki œlad pozostawiony na drodze przez ko³a je¿d¿¹cych ni¹ pojazdów; “wypaœæ z koleiny", to to samo, co “wypaœæ z toru"; Petroneli chodzi o to, ¿e zapomnia³a, w którym miejscu swojej w³aœciwej drogi, w³aœciwej opowieœci, “skrêci³a w bok".
-Ko³acz;rodzaj s³odkiego, odœwiêtnego pieczywa w kszta³cie ko³a, st¹d nazwa.
-Ko³odziej;rzemieœlnik wyrabiaj¹cy ko³a do wozów.
+KmieÄ‡;chÅ‚op, gospodarz.
+Koleina;gÅ‚Ä™boki Å›lad pozostawiony na drodze przez koÅ‚a jeÅ¼dÅ¼Ä…cych niÄ… pojazdÃ³w; â€œwypaÅ›Ä‡ z koleiny", to to samo, co â€œwypaÅ›Ä‡ z toru"; Petroneli chodzi o to, Å¼e zapomniaÅ‚a, w ktÃ³rym miejscu swojej wÅ‚aÅ›ciwej drogi, wÅ‚aÅ›ciwej opowieÅ›ci, â€œskrÄ™ciÅ‚a w bok".
+KoÅ‚acz;rodzaj sÅ‚odkiego, odÅ›wiÄ™tnego pieczywa w ksztaÅ‚cie koÅ‚a, stÄ…d nazwa.
+KoÅ‚odziej;rzemieÅ›lnik wyrabiajÄ…cy koÅ‚a do wozÃ³w.
 Konterfekt;podobizna, portret.
-Kowana skrzynia;skrzynia kuta w metalu; dawne “kowaæ" to to samo co dzisiejsze “kuæ", st¹d takie s³owa, jak “kowal", czy “okowy", czyli ¿elazne kajdany.
-Krupy;kasza jêczmienna.
-Lelum-Polelum;wed³ug kronikarza Jana D³ugosza bliŸniacze bóstwa s³owiañskie, wed³ug wspó³czesnych znawców pogañskich wierzeñ i obyczajów okrzyk-przyœpiew, taki jak np. “Oj, dana!".
+Kowana skrzynia;skrzynia kuta w metalu; dawne â€œkowaÄ‡" to to samo co dzisiejsze â€œkuÄ‡", stÄ…d takie sÅ‚owa, jak â€œkowal", czy â€œokowy", czyli Å¼elazne kajdany.
+Krupy;kasza jÄ™czmienna.
+Lelum-Polelum;wedÅ‚ug kronikarza Jana DÅ‚ugosza bliÅºniacze bÃ³stwa sÅ‚owiaÅ„skie, wedÅ‚ug wspÃ³Å‚czesnych znawcÃ³w pogaÅ„skich wierzeÅ„ i obyczajÃ³w okrzyk-przyÅ›piew, taki jak np. â€œOj, dana!".
 Lisiura;czapka z lisiego futra.
-£ada; wed³ug D³ugosza najwa¿niejsza s³owiañska bogini, wed³ug innych zwrotu “O, ³ado!", u¿ywano jako zawo³ania podczas obrzêdowych œpiewów i tañców, podobnie jak “Lelum-polelum!".
-Modliszka;drapie¿ny owad, ciesz¹cy siê z³¹ s³aw¹, bowiem samice modliszki maj¹ brzydki (z naszego, ludzkiego punktu widzenia) zwyczaj po¿erania samców.
-Mezalians;nieodpowiednie ma³¿eñstwo, zawarte np. miêdzy ksiêciem a Kopciuszkiem (co w tym akurat przypadku dobrze siê skoñczy³o).
-Misiurka;rodzaj he³mu, z³o¿onego z metalowej miski i os³aniaj¹cej kark i uszy równie¿ metalowej siatki.
-M³okos;niezbyt ¿yczliwe okreœlenie m³odego cz³owieka, który udaje bardziej doros³ego ni¿ jest.
-Nikczemny;dziœ u¿ywamy tego s³owa w znaczeniu “pod³y, fa³szywy"; dawniej znaczy³o ono tyle co “ma³o wa¿ny, lichy".
-Obiata;u dawnych S³owian ofiara z jedzenia sk³adana bóstwom; przy tej okazji czêsto ucztowano ze œpiewem i tañcami, co w³aœnie g³ównie czyni³y myszy w spi¿arni Piasta.
-Odium;niechêæ, odraza, wstrêt.
-Ogacona mchem;wymoszczona, wyœcielona.
-Parantela;pokrewieñstwo.
-Piast;byæ mo¿e skrócona wersja s³owa “piastun";“opiekun".
-Piasta;czêœæ ko³a.
-Podlotek;dziewczyna, panienka (dziœ powiedzielibyœmy “nastolatka"); czasem te¿ zamiast “podlotek" mówi siê “podfruwajka", w obu przypadkach porównuj¹c dziewczynê do m³odego ptaka, który nie umie jeszcze lataæ, fruwaæ, ale ju¿ próbuje podfrun¹æ, podlecieæ .
-Po³owica;ma³¿onka; dawniej s³owo “po³owica" znaczy³o tyle samo, co po³owa, a dziœ nieraz s³yszymy, jak m¹¿ mówi o ¿onie “moja druga po³owa", albo nawet (jeœli jest to kochaj¹cy m¹¿) “moja lepsza po³owa".
-Po³udnica;w s³owiañskich wierzeniach pozaziemska zjawa, ukazuj¹ca siê w po³udnie w postaci kobiety okrytej bia³¹ p³acht¹.
+Åada; wedÅ‚ug DÅ‚ugosza najwaÅ¼niejsza sÅ‚owiaÅ„ska bogini, wedÅ‚ug innych zwrotu â€œO, Å‚ado!", uÅ¼ywano jako zawoÅ‚ania podczas obrzÄ™dowych Å›piewÃ³w i taÅ„cÃ³w, podobnie jak â€œLelum-polelum!".
+Modliszka;drapieÅ¼ny owad, cieszÄ…cy siÄ™ zÅ‚Ä… sÅ‚awÄ…, bowiem samice modliszki majÄ… brzydki (z naszego, ludzkiego punktu widzenia) zwyczaj poÅ¼erania samcÃ³w.
+Mezalians;nieodpowiednie maÅ‚Å¼eÅ„stwo, zawarte np. miÄ™dzy ksiÄ™ciem a Kopciuszkiem (co w tym akurat przypadku dobrze siÄ™ skoÅ„czyÅ‚o).
+Misiurka;rodzaj heÅ‚mu, zÅ‚oÅ¼onego z metalowej miski i osÅ‚aniajÄ…cej kark i uszy rÃ³wnieÅ¼ metalowej siatki.
+MÅ‚okos;niezbyt Å¼yczliwe okreÅ›lenie mÅ‚odego czÅ‚owieka, ktÃ³ry udaje bardziej dorosÅ‚ego niÅ¼ jest.
+Nikczemny;dziÅ› uÅ¼ywamy tego sÅ‚owa w znaczeniu â€œpodÅ‚y, faÅ‚szywy"; dawniej znaczyÅ‚o ono tyle co â€œmaÅ‚o waÅ¼ny, lichy".
+Obiata;u dawnych SÅ‚owian ofiara z jedzenia skÅ‚adana bÃ³stwom; przy tej okazji czÄ™sto ucztowano ze Å›piewem i taÅ„cami, co wÅ‚aÅ›nie gÅ‚Ã³wnie czyniÅ‚y myszy w spiÅ¼arni Piasta.
+Odium;niechÄ™Ä‡, odraza, wstrÄ™t.
+Ogacona mchem;wymoszczona, wyÅ›cielona.
+Parantela;pokrewieÅ„stwo.
+Piast;byÄ‡ moÅ¼e skrÃ³cona wersja sÅ‚owa â€œpiastun";â€œopiekun".
+Piasta;czÄ™Å›Ä‡ koÅ‚a.
+Podlotek;dziewczyna, panienka (dziÅ› powiedzielibyÅ›my â€œnastolatka"); czasem teÅ¼ zamiast â€œpodlotek" mÃ³wi siÄ™ â€œpodfruwajka", w obu przypadkach porÃ³wnujÄ…c dziewczynÄ™ do mÅ‚odego ptaka, ktÃ³ry nie umie jeszcze lataÄ‡, fruwaÄ‡, ale juÅ¼ prÃ³buje podfrunÄ…Ä‡, podlecieÄ‡ .
+PoÅ‚owica;maÅ‚Å¼onka; dawniej sÅ‚owo â€œpoÅ‚owica" znaczyÅ‚o tyle samo, co poÅ‚owa, a dziÅ› nieraz sÅ‚yszymy, jak mÄ…Å¼ mÃ³wi o Å¼onie â€œmoja druga poÅ‚owa", albo nawet (jeÅ›li jest to kochajÄ…cy mÄ…Å¼) â€œmoja lepsza poÅ‚owa".
+PoÅ‚udnica;w sÅ‚owiaÅ„skich wierzeniach pozaziemska zjawa, ukazujÄ…ca siÄ™ w poÅ‚udnie w postaci kobiety okrytej biaÅ‚Ä… pÅ‚achtÄ….
 Postura;postawa.
-Potwarz;oszczerstwo; obraŸliwa, krzywdz¹ca plotka.
-Prasn¹æ;uderzyæ w coœ gwa³townie, czêsto z hukiem;st¹d u¿ywane do dziœ “szast-prast!".
+Potwarz;oszczerstwo; obraÅºliwa, krzywdzÄ…ca plotka.
+PrasnÄ…Ä‡;uderzyÄ‡ w coÅ› gwaÅ‚townie, czÄ™sto z hukiem;stÄ…d uÅ¼ywane do dziÅ› â€œszast-prast!".
 Praszczur;dawny przodek, prapradziadek.
-Qui pro quo;z ³aciny: pomy³ka, nieporozumienie.
-Rusa³ka;boginka wodna lub leœna.
+Qui pro quo;z Å‚aciny: pomyÅ‚ka, nieporozumienie.
+RusaÅ‚ka;boginka wodna lub leÅ›na.
 Sakwa;worek.
-S¹siek;przedzia³ w stodole na z¿ête zbo¿e.
-Sczezn¹æ;zmarnieæ, zniszczeæ.
-Skryba;kiedyœ to s³owo, pochodz¹ce z ³aciny (“scribere";pisaæ) oznacza³o po prostu pisarza; póŸniej nabra³o odcienia lekcewa¿¹cego i u¿ywano go zamiennie z takimi s³owami, jak pisarzyna, pisarczyk, gryzipiórek.
-Strateg;ktoœ, kto obmyœla i przeprowadza wielkie dzia³ania wojenne.
-Strzyga;w s³owiañskich wierzeniach upiór ¿ywi¹cy siê ludzk¹ krwi¹.
-Swaro¿yc, Œwiêtowit, Perun;imiona s³owiañskich bóstw.
-Szalej;prawdopodobnie chodzi tu o wywar z roœliny zwanej szalejem jadowitym albo cykut¹; i dziœ czasem do kogoœ, kto zachowuje siê jak szaleniec, mówimy: “Czyœ ty siê szaleju opi³?!".
-Turkawka;ptak leœny, gatunek go³êbia.
-Tuszyæ ;dawniej: spodziewaæ siê.
-Von und zu Maus;Petronela, ¿eby wydaæ siê kimœ lepszym i wa¿niejszym,  przedstawia siê zmyœlonym nazwiskiem, w jej przekonaniu arystokratycznym i do tego cudzoziemskim; rzeczywiœcie;“von" przed niemieckim nazwiskiem, a  “de" przed francuskim wskazuje dziœ na szlacheckie pochodzenie posiadacza takiego nazwiska, ale w Œredniowieczu, kiedy nie by³o jeszcze nazwisk w dzisiejszym rozumieniu, rycerzowi dodawano do imienia informacjê, sk¹d pochodzi;i tak Niemiec zwany by³ np. Ulrichem von Jungingen (co znaczy³o “Ulrich z Jungingen"), Francuz Filipem de Poitiers (co znaczy³o “Filip z Poitiers"), a Polak Zawisz¹ z Garbowa; gdyby zaœ przet³umaczyæ dos³ownie wymyœlone przez Petronelê nazwisko znaczy³oby ono “z myszy i do myszy".
-Wiktoria;z ³aciny: zwyciêstwo.
-Zdzier¿yæ;dawniej: wytrzymaæ.
+SÄ…siek;przedziaÅ‚ w stodole na zÅ¼Ä™te zboÅ¼e.
+SczeznÄ…Ä‡;zmarnieÄ‡, zniszczeÄ‡.
+Skryba;kiedyÅ› to sÅ‚owo, pochodzÄ…ce z Å‚aciny (â€œscribere";pisaÄ‡) oznaczaÅ‚o po prostu pisarza; pÃ³Åºniej nabraÅ‚o odcienia lekcewaÅ¼Ä…cego i uÅ¼ywano go zamiennie z takimi sÅ‚owami, jak pisarzyna, pisarczyk, gryzipiÃ³rek.
+Strateg;ktoÅ›, kto obmyÅ›la i przeprowadza wielkie dziaÅ‚ania wojenne.
+Strzyga;w sÅ‚owiaÅ„skich wierzeniach upiÃ³r Å¼ywiÄ…cy siÄ™ ludzkÄ… krwiÄ….
+SwaroÅ¼yc, ÅšwiÄ™towit, Perun;imiona sÅ‚owiaÅ„skich bÃ³stw.
+Szalej;prawdopodobnie chodzi tu o wywar z roÅ›liny zwanej szalejem jadowitym albo cykutÄ…; i dziÅ› czasem do kogoÅ›, kto zachowuje siÄ™ jak szaleniec, mÃ³wimy: â€œCzyÅ› ty siÄ™ szaleju opiÅ‚?!".
+Turkawka;ptak leÅ›ny, gatunek goÅ‚Ä™bia.
+TuszyÄ‡ ;dawniej: spodziewaÄ‡ siÄ™.
+Von und zu Maus;Petronela, Å¼eby wydaÄ‡ siÄ™ kimÅ› lepszym i waÅ¼niejszym,  przedstawia siÄ™ zmyÅ›lonym nazwiskiem, w jej przekonaniu arystokratycznym i do tego cudzoziemskim; rzeczywiÅ›cie;â€œvon" przed niemieckim nazwiskiem, a  â€œde" przed francuskim wskazuje dziÅ› na szlacheckie pochodzenie posiadacza takiego nazwiska, ale w Åšredniowieczu, kiedy nie byÅ‚o jeszcze nazwisk w dzisiejszym rozumieniu, rycerzowi dodawano do imienia informacjÄ™, skÄ…d pochodzi;i tak Niemiec zwany byÅ‚ np. Ulrichem von Jungingen (co znaczyÅ‚o â€œUlrich z Jungingen"), Francuz Filipem de Poitiers (co znaczyÅ‚o â€œFilip z Poitiers"), a Polak ZawiszÄ… z Garbowa; gdyby zaÅ› przetÅ‚umaczyÄ‡ dosÅ‚ownie wymyÅ›lone przez PetronelÄ™ nazwisko znaczyÅ‚oby ono â€œz myszy i do myszy".
+Wiktoria;z Å‚aciny: zwyciÄ™stwo.
+ZdzierÅ¼yÄ‡;dawniej: wytrzymaÄ‡.
 ;
-pogodynka;automatyczne urz¹dzenie podaj¹ce przez telefon prognozê pogody na dany dzieñ
+pogodynka;automatyczne urzÄ…dzenie podajÄ…ce przez telefon prognozÄ™ pogody na dany dzieÅ„
 literaki;internetowa gra podobna do scrabble'a
 emotikony;smileye
-Lynx;przegl¹darka internetowa
-narzêdzie;program komputerowy s³u¿¹cy do wykonywania danej czynnoœci lub zadania
-Mitnick;Kevin, amerykañski haker, autor "Sztuki podstêpu"
+Lynx;przeglÄ…darka internetowa
+narzÄ™dzie;program komputerowy sÅ‚uÅ¼Ä…cy do wykonywania danej czynnoÅ›ci lub zadania
+Mitnick;Kevin, amerykaÅ„ski haker, autor "Sztuki podstÄ™pu"
 cookie;ciasteczko na dysku
-kryptolog;specjalisto od szyfrowania tekstów oraz ich deszyfracji
+kryptolog;specjalisto od szyfrowania tekstÃ³w oraz ich deszyfracji
 kodowanie;przetwarzanie informacji na kod
