@@ -13,19 +13,19 @@ class Hangman:
     usedLetters=[str]
     
 
-    def __init__(self):
-        modeInt=input("Wybierz tryb:\n1-Standardowy\n2-Artystyczny\n")
-        #modeInt=1
-        if modeInt==2:
-            self.mode="Artist"
-        else:
-            self.mode="Standard"
-        self.drawn=Draw(self.mode)
-        try:
-            self.LoadDataFromFile()
-        except FileNotFoundError:
-            return
-        self.MainGameLoop()
+#     def __init__(self):
+#         modeInt=input("Wybierz tryb:\n1-Standardowy\n2-Artystyczny\n")
+#         #modeInt=1
+#         if modeInt==2:
+#             self.mode="Artist"
+#         else:
+#             self.mode="Standard"
+#         self.drawn=Draw(self.mode)
+#         try:
+#             self.LoadDataFromFile()
+#         except FileNotFoundError:
+#             return
+#         self.MainGameLoop()
 
     def __init__(self,mode):
         modeInt=mode
